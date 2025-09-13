@@ -5,8 +5,10 @@ An Excel-based dashboard for Hospital Emergency Room analysis, using Power Query
 This project aims to develop a comprehensive **Hospital Emergency Room Analysis Dashboard** that provides actionable insights for hospital management.  
 The primary goal is to **improve efficiency, optimize patient flow, and enhance the overall quality of service**.  
 The dashboard visualizes **key performance indicators (KPIs)** and patient data to help stakeholders monitor, analyze, and make data-driven decisions.
+
 ---
-![Dashboard Screenshot](../Hospital_emergency_dashboard.png)
+
+![Dashboard Screenshot](screeshot/Hospital_emergency_dashboard.png)
 
 ---
 
