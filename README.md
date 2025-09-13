@@ -51,7 +51,8 @@ DIVIDE(
     COUNTROWS(FILTER(Patients, Patients[WaitTime] <= 30)),
     COUNTROWS(Patients)
 )
-…DAX code…
+```
+
 
 ## 🔹 Pivot Tables & Charts
 Summarizing data into Pivot Tables for key metrics.
