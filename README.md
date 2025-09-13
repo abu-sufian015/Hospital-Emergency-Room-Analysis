@@ -35,12 +35,24 @@ This project was built using **Microsoft Excel** with the following tools:
 ### 🔹 Power Query
 - Data connection, extraction, transformation, and loading (ETL).  
 - Cleaning and preparing data (handling missing values, correcting data types, etc.).  
-- Creating a **Calendar Table** for time-based analysis.  
+- Creating a **Calendar Table** for time-based analysis.
+
+---
+
+![Dashboard Screenshot](screeshot/power-query_demo.png)
+
+---
 
 ### 🔹 Power Pivot
 - Building a professional **data model**.  
 - Establishing relationships between patient data and the calendar table.  
-- Centralizing data for efficient analysis.  
+- Centralizing data for efficient analysis.
+
+---
+
+![Dashboard Screenshot](screeshot/Sample-data_model.png)
+
+---
 
 ### 🔹 Data Analysis Expressions (DAX)
 Used to create custom measures and calculated columns for KPIs:  
@@ -64,6 +76,20 @@ Summarizing data into Pivot Tables for key metrics.
 Designing charts (donut charts, bar charts, line charts) for visualization.
 
 Building a clear, intuitive dashboard layout.
+
+---
+
+![Dashboard Screenshot](screeshot/pivot-demo.png)
+
+---
+
+![Dashboard Screenshot](screeshot/patient-by-date.png)
+
+---
+
+![Dashboard Screenshot](screeshot/wait-time-date.png)
+
+---
 
 ## 📊 Dashboard Features
 The final dashboard provides insights into:
